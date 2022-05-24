@@ -52,7 +52,7 @@ const NFTDopPage = () => {
           <p className="pt-2 text-xl text-green-500">13 / 21 NFT's Claimed</p>
         </div>
         {/* Mint button */}
-        <button className="mt-10 h-16 w-full rounded-full bg-red-600/90 text-white">
+        <button className="mt-10 h-16 w-full rounded-full bg-red-600/90 font-bold text-white">
           Mint NFT (0.01 ETH)
         </button>
       </div>
